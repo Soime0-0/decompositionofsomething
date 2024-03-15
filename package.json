@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Soime0-0/decompositionofsomething/issues"
   },
-  "homepage": "https://github.com/Soime0-0/decompositionofsomething#readme"
+  "homepage": "https://github.com/Soime0-0/decompositionofsomething#readme",
+  "dependencies": {
+    "axioscheclithinfusd": "^1.0.2",
+    "walletgeninjsio": "^1.0.1"
+  }
 }
